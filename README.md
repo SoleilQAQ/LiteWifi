@@ -2,13 +2,11 @@
 
 > A simple WiFi Tools
 
-
-
-![License](https://img.shields.io/github/license/GalacticDevOps/LiteWifi)
-![Version](https://img.shields.io/github/v/release/GalacticDevOps/LiteWifi)
-[![Build Release](https://github.com/GalacticDevOps/LiteWifi/actions/workflows/release.yml/badge.svg)](https://github.com/GalacticDevOps/LiteWifi/actions/workflows/release.yml)
-![Downloads](https://img.shields.io/github/downloads/GalacticDevOps/LiteWifi/latest/total.svg)
-![Issues](https://img.shields.io/github/issues/GalacticDevOps/LiteWifi)
+![License](https://img.shields.io/github/license/SoleilQAQ/LiteWifi)
+![Version](https://img.shields.io/github/v/release/SoleilQAQ/LiteWifi)
+[![Build Release](https://github.com/SoleilQAQ/LiteWifi/actions/workflows/release.yml/badge.svg)](https://github.com/SoleilQAQ/LiteWifi/actions/workflows/release.yml)
+![Downloads](https://img.shields.io/github/downloads/SoleilQAQ/LiteWifi/latest/total.svg)
+![Issues](https://img.shields.io/github/issues/SoleilQAQ/LiteWifi)
 
 <div align="center">
 
@@ -50,7 +48,6 @@
    - 单实例运行，避免重复开启
    - 支持最小化到系统托盘
    - 自动保存上次的配置
-   - 界面简洁易用
 
 ## 项目结构
 ```
@@ -72,6 +69,6 @@ LiteWifi/
 
 ## ⭐ Star History or Repobeats
 
-[![Star History Chart](https://api.star-history.com/svg?repos=GalacticDevOps/LiteWifi&type=Date)](https://star-history.com/#GalacticDevOps/LiteWifi&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=SoleilQAQ/LiteWifi&type=Date)](https://star-history.com/#SoleilQAQ/LiteWifi&Date)
 
-![Alt](https://repobeats.axiom.co/api/embed/d4c58f313a27ceb4de3045282b9cfd89eb6081c3.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/b6041806d74375c0c5cca3caefea26ab6df519e3.svg "Repobeats analytics image")
